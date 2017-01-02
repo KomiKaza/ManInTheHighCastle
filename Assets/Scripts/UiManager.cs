@@ -74,4 +74,8 @@ public class UiManager : MonoBehaviour {
 		SceneManager.LoadScene ("MenuScene");
 	}
 
+	public void ToTheTree(){
+		SceneManager.LoadScene ("TreeScene");
+	}
+
 }
